@@ -1,5 +1,5 @@
 # SQL-ODEV-3
-Patika.dev > SQL > Ödev3
+Patika.dev > SQL > SQL Temelleri > Ödev3
 
 ## 1. country tablosunda bulunan country sütunundaki ülke isimlerinden 'A' karakteri ile başlayıp 'a' karakteri ile sonlananları sıralayınız.
 
